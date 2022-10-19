@@ -1,0 +1,13 @@
+.top-nav div img{
+    width: 100px;
+    margin: .5rem;
+}
+
+li{
+    list-style: none;
+    padding: 0 .5rem;
+}
+
+.nav-list{
+    justify-content: space-between;
+}
