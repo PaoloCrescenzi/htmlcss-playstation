@@ -3,6 +3,10 @@
     margin: .5rem;
 }
 
+section{
+    padding: 2rem 0;
+}
+
 li{
     list-style: none;
     padding: 0 .5rem;
@@ -10,4 +14,18 @@ li{
 
 .nav-list{
     justify-content: space-between;
+}
+
+.jumbotron{
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position: top;
+    color: white;
+}
+
+.it-two{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    position: top;
+    color: white;
 }
