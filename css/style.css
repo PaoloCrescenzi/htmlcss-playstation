@@ -7,7 +7,7 @@ section{
     padding: 2rem;
 }
 
-header{
+nav{
     position: fixed;
     z-index: 10;
     top: 0;
@@ -27,6 +27,7 @@ li{
     background-size: cover;
     background-position: top;
     color: white;
+    
 }
 
 .it-two{
