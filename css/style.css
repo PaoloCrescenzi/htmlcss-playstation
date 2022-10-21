@@ -11,6 +11,11 @@ nav{
     position: fixed;
     z-index: 10;
     top: 0;
+    width: 100%;
+}
+
+.nav-list{
+    width: 100%;
 }
 
 li{
@@ -27,7 +32,7 @@ li{
     background-size: cover;
     background-position: top;
     color: white;
-    
+    margin-top: 83.6px;
 }
 
 .it-two{
@@ -44,3 +49,4 @@ li{
 .my-bg-blue{
     background-color: rgb(22, 28, 59);
 }
+
